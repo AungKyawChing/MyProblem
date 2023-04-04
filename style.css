@@ -1,0 +1,10 @@
+.box1{
+    width: 400px;
+    height: 230px;
+    background-color: green;
+}
+.box2{          /* Box 2 Design Not Working */
+    width: 200;
+    height: 300;
+    background-color: red;
+}
